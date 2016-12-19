@@ -8,6 +8,7 @@ And following this <a href="https://codepen.io/FreeCodeCamp/full/YqLyXB/">exampl
 
 This repository will include the <strong>FULL SOURCE CODE</strong>, which include some of the html and frameworks included in a codepen project as well as the code you put in the tabs you create a new codepen.io <strong>pen</strong>.
 
-Usually a codepen has 3 tabs          
-                                 
+Usually a codepen has 3 tabs
+
+<h3 style="'background-color:red'">HTML                 CSS                     JS</h3>
 The <strong>HTML</strong> tab is where you right and edit all the html code that will provide the content and basic framework, layout, and organization to your webpage. <em> ALSO </em> note, that all the code written in the <strong>CSS tab</strong> and <strong>JS tab</strong> are all automically linked to the html page that is in your pen. 
