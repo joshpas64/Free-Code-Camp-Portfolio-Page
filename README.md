@@ -19,7 +19,7 @@ You are allowed to import some common CSS, HTML, and Javascript preprocessor and
 4. Below those input boxes you will see an option called `Quick Add` where you can pick from commonly used libraries like bootstrap, jQuery, React, backbone, Animate.css, Angular, Ember, etc. (You are not limited to whatever is in the list you can link to any library of HTML, CSS, or Javascript that you would like.
 
 ### What I used.
-* General <a href="http://getbootstrap.com/">Bootstrap library<a>.
+* General <a href="http://getbootstrap.com/">Bootstrap library</a>.
 * The <a href="https://bootswatch.com/superhero/">Superhero template</a> from <a href="https://bootswatch.com/">bootswatch</a>.
 * Basic <a href="https://jquery.com/">jQuery</a>.
 
